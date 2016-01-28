@@ -1,0 +1,13 @@
+1. IMPORTANT!!! create a folder named "output" before executing the program
+2. Keep the csv file in the same directory of the bytecode.
+3. Name it as "input.csv" ONLY!!
+4. STEPS to create the output files
+i) Give the number of output files required
+ii) Fill up the column details as required
+
+
+Min requirements:
+Java must be installed
+Run it form the console window only(command prompt)
+
+
